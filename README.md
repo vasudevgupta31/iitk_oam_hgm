@@ -39,7 +39,7 @@
  ## **Usage**
  Modify `configs/config.ini` to set up:
  - input_file (File should be placed within `input_data`)
- - pretrained model (h5 file should be placed in /pretrained and the name should be given in config.ini file)
+ - pretrained model (h5 file should be placed in /pretrained and the name should be given in config.ini file) (you can download from - https://drive.google.com/file/d/1hyMgwQnU9V7u5cKER9dSS_0pwJneWluj/view?usp=drive_link)
  - Trianing hyperparameters
  - other training options.
 
